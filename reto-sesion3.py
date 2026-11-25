@@ -1,0 +1,12 @@
+actividad = str(input("Nombre de la actividad: "))
+cupos = int(input("Cupos disponibles: "))
+duracion_horas = float(input("Duración en horas: "))
+requiere_inscripcion = bool(input("Requiere inscripción? True/False: "))
+
+print("=== FICHA DE ACTIVIDAD ===")
+print("\nNombre de actividad:", actividad, "\nNumeros de cupos:", cupos, "\nDuracion en horas:",duracion_horas, "\n¿Requiere inscripción?", requiere_inscripcion)
+print("\n=== INFORMACION DE DATOS ===")
+print(type(actividad))
+print(type(cupos))
+print(type(duracion_horas))
+print(type(requiere_inscripcion))
