@@ -10,7 +10,7 @@
 - Sesion 4: CONSULTAR CADENAS DE DATOS
 - Sesion 5: DICCIONARIOS
 - Sesion 6: CONDICIONALES
-- Sesion 7:
+- Sesion 7: FOR | WHILE 
 
 ## Herramientas utilizadas
 
